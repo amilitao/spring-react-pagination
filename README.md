@@ -1,7 +1,3 @@
-Aqui está uma sugestão de como você pode melhorar o README do seu projeto **spring-react-pagination**:
-
----
-
 # Spring React Pagination
 
 Aplicação desenvolvida com **Spring Boot** e **React JS** para testar e demonstrar a funcionalidade de paginação em uma lista.
@@ -105,7 +101,3 @@ Sinta-se à vontade para contribuir com este projeto! Para isso:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
-
-Se quiser, posso ajudar a personalizar ainda mais o README ou adicionar seções específicas!
